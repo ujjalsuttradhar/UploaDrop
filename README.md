@@ -1,7 +1,8 @@
-###UploaDrop is a dropbox based upload-download script which is used for uploading files and folders to dropbox instead of server storage.
+###What is it?
+UploaDrop is a dropbox based upload script which is used for uploading files and folders to dropbox instead of server storage.
 
 ###Motivation
-Most of the time, we, the developers, must have to manipulate large files on the website like videos, audios or other documents. If the unit size of files is small, then its okey. There is no big deal to handle these files of small size. But when the application requires to upload files of large size e.x. 5GB on each upload, we need to consider the reliablity of the upload script. We need to consider the maximum size of files which can be ulpoaded. We need to consider the maximum bandwidth we can use at a time. We have to take the burden of server optimization.
+Most of the time, we, the developers, must have to manipulate large files on the website like videos, audios or other documents. If the unit size of files is small, then its okey. There is no big deal to handle these files of small size. But when the application requires to upload files of large size like 5GB on each upload, we need to consider the reliablity of the upload script. We need to consider the maximum size of files which can be uploaded. We need to consider the maximum bandwidth we can use at a time. We have to take the burden of server optimization.
 
 To get rid of these headache, we can handle this file manipulation tasks to other 3rd party who is already established with the service of file manipulation.
 
