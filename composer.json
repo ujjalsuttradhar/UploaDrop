@@ -9,8 +9,8 @@
         "psr-0": { "Dropbox": "lib/" }
     },
     
-    "key": "6g5t8m69h9m175y",
-    "secret": "qafk5j82rf95wt8",
+    "key": "Your App Key",
+    "secret": "Your Secret Key",
 
 
     "require": {

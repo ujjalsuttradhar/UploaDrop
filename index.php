@@ -8,7 +8,7 @@ require_once "lib/Dropbox/autoload.php";
 use Dropbox as dbx;
 
 #access token is generated at the developer's end
-$accessToken="LUe_0AZEYLoAAAAAAAAAAbGkU6kYqcGjt5TH83KwmXRUi75iLainkV5owczpcYMI";
+$accessToken="Your Access Token";
 
 $dbxClient = new dbx\Client($accessToken, "PHP-Example/1.0");
 
