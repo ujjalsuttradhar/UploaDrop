@@ -46,7 +46,7 @@ function getfile($path,$dbxClient){
 
 <html>
 <head>
- <title>uUploader</title>
+ <title>UploaDrop</title>
  <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
  <link rel="stylesheet" href="dropzone.css" type="text/css" media="screen" />
 
@@ -54,7 +54,7 @@ function getfile($path,$dbxClient){
 <body>
    <header>
 	   <div id="header">
-	       uUploader
+	       UploaDrop
 	       <sub>An unique upload script based on Dropbox</sub>
 	   </div>
    </header>
