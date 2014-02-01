@@ -22,7 +22,7 @@ To develop a script in which visitors/users of the application can upload file v
 ###Acknowledgements
 First of all I would like to thank the Dropbox Team for providing this awesome service.
 
-Then I thank Mr. Nuhil Mehdey (nuhil.net) to give me the idea. 
+Then I thank Mr. Nuhil Mehdy (nuhil.net) to give me the idea. 
 
 Lets start the development of an simple application called UploaDrop by which end user will upload something to your website, and instead of your host, it will be uploaded on dropbox.
 
@@ -72,13 +72,3 @@ This is the simple app. Actually, It is a brief instruction of how to use Dropbo
 1. In the top area, all existing files are being displayed in recursive structure which is coded by me. In dropbox core api, there are options to create download link of each files, Editing, Deleting etc. These 3 features can be achieved in future. 
  
 2. If any compressed file is drop on the drag&drop area, it doesnt extract the compressed file. In future, it can be an issue.
-
-
-
- 
-
-
-
-  
-
-    
