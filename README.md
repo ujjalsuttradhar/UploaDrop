@@ -72,3 +72,10 @@ This is the simple app. Actually, It is a brief instruction of how to use Dropbo
 1. In the top area, all existing files are being displayed in recursive structure which is coded by me. In dropbox core api, there are options to create download link of each files, Editing, Deleting etc. These 3 features can be achieved in future. 
  
 2. If any compressed file is drop on the drag&drop area, it doesnt extract the compressed file. In future, it can be an issue.
+
+
+###Used Tools
+1. [Dropzone.js](http://www.dropzonejs.com) for Drag and Drop
+2. [Dropbox Api](https://www.dropbox.com/developers)
+3. Netbeans IDE as Editor
+4. OS X 10.8.5 as OS 
