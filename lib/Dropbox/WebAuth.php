@@ -239,8 +239,8 @@ class WebAuth extends WebAuthBase
             $urlState = substr($state, $splitPos + 1);
         }
         if (!Security::stringEquals($csrfTokenFromSession, $givenCsrfToken)) {
-            throw new WebAuthException_Csrf("Expected ".Client::q($csrfTokenFromSession).
-                                           ", got ".Client::q($givenCsrfToken).".");
+            throw new WebAuthException_Csrf("Expected ".Util::q($csrfTokenFromSession) .
+                                           ", got ".Util::q($givenCsrfToken) .".");
         }
         $this->csrfTokenStore->clear();
 
